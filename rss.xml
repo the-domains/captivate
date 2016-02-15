@@ -4,7 +4,7 @@
         <description><![CDATA[captivate]]></description>
         <link>https://thegrid.ai/captivate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 11:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 11:09:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/captivate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Clients]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68c20ae3-233d-47fa-bbfb-ace4738c6825.png">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fdb2e58e751b9f23e1c414b6e0f0af0039ccfb9.png" alt="" title="">]]></description>
             <link>https://thegrid.ai/captivate/cf754f35-0b22-47e6-96cb-32cfe7fa5e9c/index.html</link>
             <guid isPermaLink="false">cf754f35-0b22-47e6-96cb-32cfe7fa5e9c</guid>
-            <pubDate>Mon, 15 Feb 2016 08:08:17 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 11:09:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
