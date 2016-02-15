@@ -4,11 +4,18 @@
         <description><![CDATA[captivate]]></description>
         <link>https://thegrid.ai/captivate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 14:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 14:03:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/captivate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>Strategy & Planning</p></article>]]></description>
+            <link>https://thegrid.ai/captivate/services/index.html</link>
+            <guid isPermaLink="false">98d1946b-d495-4779-af3c-b20643c9bd5d</guid>
+            <pubDate>Mon, 15 Feb 2016 14:02:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Picnic Pop-Up]]></title>
-            <description><![CDATA[<article><h1>Picnic Pop-Up</h1><p>Manila's 1st Picnic Pop-Up</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10fbbb2062905edc9c455dd8f8f48241270dc6f6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Picnic Pop-Up</h1><p>Manila's 1st Picnic Pop-Up</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/608e1cbf4ba9421bf010053f87b1b86a8f20d1e2.jpg"></article>]]></description>
             <link>https://thegrid.ai/captivate/cf754f35-0b22-47e6-96cb-32cfe7fa5e9c/index.html</link>
             <guid isPermaLink="false">cf754f35-0b22-47e6-96cb-32cfe7fa5e9c</guid>
             <pubDate>Mon, 15 Feb 2016 14:01:16 GMT</pubDate>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/captivate/clients/index.html</link>
             <guid isPermaLink="false">4c8f0ea3-0779-49d3-8033-ae67b5c96e07</guid>
             <pubDate>Mon, 15 Feb 2016 12:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><p>Strategy & Planning</p></article>]]></description>
-            <link>https://thegrid.ai/captivate/services/index.html</link>
-            <guid isPermaLink="false">98d1946b-d495-4779-af3c-b20643c9bd5d</guid>
-            <pubDate>Mon, 15 Feb 2016 13:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
