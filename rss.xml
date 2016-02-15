@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[captivate]]></title>
         <description><![CDATA[captivate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/captivate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 08:08:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 11:00:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/captivate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>Strategy & Planning</p></article>]]></description>
+            <link>https://thegrid.ai/captivate/services/index.html</link>
+            <guid isPermaLink="false">98d1946b-d495-4779-af3c-b20643c9bd5d</guid>
+            <pubDate>Mon, 15 Feb 2016 10:59:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68c20ae3-233d-47fa-bbfb-ace4738c6825.png">]]></description>
-            <link>undefinedcf754f35-0b22-47e6-96cb-32cfe7fa5e9c/index.html</link>
+            <link>https://thegrid.ai/captivate/cf754f35-0b22-47e6-96cb-32cfe7fa5e9c/index.html</link>
             <guid isPermaLink="false">cf754f35-0b22-47e6-96cb-32cfe7fa5e9c</guid>
             <pubDate>Mon, 15 Feb 2016 08:08:17 GMT</pubDate>
         </item>
