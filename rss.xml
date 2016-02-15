@@ -4,8 +4,15 @@
         <description><![CDATA[captivate]]></description>
         <link>https://thegrid.ai/captivate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 13:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 13:30:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/captivate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Subscribe]]></title>
+            <description><![CDATA[<article><h1>Subscribe</h1><p>Click here to subscribe to our mailing list and get updates on our future events.</p></article>]]></description>
+            <link>https://thegrid.ai/captivate/subscribe/index.html</link>
+            <guid isPermaLink="false">e1232fb6-0584-4fd2-a7b5-0d68c0e98c73</guid>
+            <pubDate>Mon, 15 Feb 2016 13:29:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>Captivate Moments Manila Inc.</p></article>]]></description>
