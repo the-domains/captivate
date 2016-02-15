@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:f793c045-4a3f-46d1-8e9d-558444b74c08'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T13:50:22.869Z'
-dateModified: '2016-02-15T13:50:20.636Z'
+datePublished: '2016-02-15T14:14:22.807Z'
+dateModified: '2016-02-15T14:14:16.206Z'
 author: []
 title: "MANILA'S 1ST PICNIC POP-UP"
 sourcePath: _posts/2016-02-15-manilas-1st-picnic-pop-up-as-featured-on-lifestyle-tvs-li.md
