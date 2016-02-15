@@ -4,8 +4,15 @@
         <description><![CDATA[captivate]]></description>
         <link>https://thegrid.ai/captivate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 14:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 14:03:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/captivate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clients]]></title>
+            <description><![CDATA[<article><h1>Clients</h1><p>Founded in 2015, we've worked with a number of companies in a range of industries.</p></article>]]></description>
+            <link>https://thegrid.ai/captivate/clients/index.html</link>
+            <guid isPermaLink="false">4c8f0ea3-0779-49d3-8033-ae67b5c96e07</guid>
+            <pubDate>Mon, 15 Feb 2016 14:02:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><p>Strategy & Planning</p></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/captivate/contact/index.html</link>
             <guid isPermaLink="false">3442f176-b32a-4674-9e2f-cb970c2259da</guid>
             <pubDate>Mon, 15 Feb 2016 13:29:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clients]]></title>
-            <description><![CDATA[<article><h1>Clients</h1><p>Founded in 2015, we've worked with a number of companies in a range of industries.</p></article>]]></description>
-            <link>https://thegrid.ai/captivate/clients/index.html</link>
-            <guid isPermaLink="false">4c8f0ea3-0779-49d3-8033-ae67b5c96e07</guid>
-            <pubDate>Mon, 15 Feb 2016 12:51:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
