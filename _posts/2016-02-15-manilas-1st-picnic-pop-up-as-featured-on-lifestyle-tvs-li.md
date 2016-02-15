@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:12:16.174Z'
-dateModified: '2016-02-15T18:12:11.765Z'
+datePublished: '2016-02-15T18:18:11.836Z'
+dateModified: '2016-02-15T18:18:07.460Z'
 author: []
 title: "MANILA'S 1ST PICNIC POP-UP"
 sourcePath: _posts/2016-02-15-manilas-1st-picnic-pop-up-as-featured-on-lifestyle-tvs-li.md
