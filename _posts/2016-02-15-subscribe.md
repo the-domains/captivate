@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T13:29:24.759Z'
-dateModified: '2016-02-15T13:29:08.899Z'
+datePublished: '2016-02-15T16:18:12.845Z'
+dateModified: '2016-02-15T16:18:10.394Z'
 title: Subscribe
 author: []
+sourcePath: _posts/2016-02-15-subscribe.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-subscribe.md
-published: true
-url: subscribe/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Subscribe
