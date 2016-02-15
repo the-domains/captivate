@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:12:15.720Z'
+datePublished: '2016-02-15T18:12:16.174Z'
 dateModified: '2016-02-15T18:12:11.765Z'
 author: []
 title: "MANILA'S 1ST PICNIC POP-UP"
