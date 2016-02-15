@@ -4,8 +4,15 @@
         <description><![CDATA[captivate]]></description>
         <link>https://thegrid.ai/captivate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 11:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 11:06:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/captivate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clients]]></title>
+            <description><![CDATA[<article><h1>Clients</h1><p>Founded in 2015, we've worked with a number of companies in a range of industries.</p></article>]]></description>
+            <link>https://thegrid.ai/captivate/clients/index.html</link>
+            <guid isPermaLink="false">4c8f0ea3-0779-49d3-8033-ae67b5c96e07</guid>
+            <pubDate>Mon, 15 Feb 2016 11:06:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><p>Strategy & Planning</p></article>]]></description>
